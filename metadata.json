@@ -1,0 +1,8 @@
+{
+  "name": "Assessora",
+  "description": "Assessora by GYTama EDU — Professional online assessment creation and authoring platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
